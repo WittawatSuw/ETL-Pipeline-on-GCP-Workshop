@@ -13,3 +13,5 @@ ETL Pipeline on GCP Workshop (Road to Data Engineer Course, DataTH School, 2024)
     - Customer Insights: Presenting customer data, such as total customers, average revenue per customer purchase, monthly customer trends, frequency of spending for frequent buyers, and a table of top-spending  customers.
      
     - Product Search: Allowing users to search for products based on desired sales performance.
+
+- Medium:Project documentation available on [Medium](https://medium.com/@wittawatsuwannarak/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-data-pipeline-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-r2de-b5ab385649e8)
