@@ -1,3 +1,5 @@
+ETL Pipeline on GCP Workshop (Road to Data Engineer Course, DataTH School, 2024)
+
 - Developed a robust ETL pipeline on GCP using Apache Airflow to automate data extraction, transformation, and loading (ETL) processes, processing over 540,000 retail transaction records.
 
 - Extracted data from multiple heterogeneous sources (e.g., MySQL, API), transformed it into a standardized, analysis-ready format using Python, Pandas, and PySpark, and then loaded it into BigQuery.
